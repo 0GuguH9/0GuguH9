@@ -12,18 +12,17 @@
  <br>
  <p>*Linguagens mais usadas não conta repositórios privados*</p>
  <br>
- Sou um programador e criador de jogos com atualmente 1 ano de experiência na minha linguagem principal, que é o C#.
+ Sou um programador e criador de jogos com atualmente 3 anos de experiência em C#, 6 messes em Java e acabei de aprender C
  
  
 
 ### Linguagens que eu tenho conhecimento <img height="25em" src="https://media4.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=ecf05e47zobv5wq5s4eap61x6tvyuek0m6qe9nn8l9mypklf&rid=giphy.gif&ct=s">
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt=C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
  
  <br>
