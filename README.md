@@ -1,35 +1,31 @@
-## Olá galera! Aqui é o 0GuguH9 <img height="35em" src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e474gocrif3mutmani6muy44lq1n5282j5obd9z56n1&rid=giphy.gif&ct=s">
+# Apresentação
+**Oi, eu me chamo 0GuguH9 (pelo menos na internet), sou apenas mais um programador de baixo nível. Espero que goste dos projetos que fiz durante a minha jornada, não só dos códigos, mas também das artes, músicas e pensamentos que compartilho. Apesar de ser apaixonado por programação, não me limito apenas a essa área. Sou igualmente fascinado por arte, música e filosofia. Sinta-se à vontade para explorar meu perfil e me acompanhar nessa jornada de descobertas e criações. Estou sempre aberto a novas ideias e colaborações.**
 
- <div>
-   <a href="https://github.com/0GuguH9">
-   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=0GuguH9&theme=tokyonight">
-   <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0GuguH9&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-    <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GuguH9&layout=compact&langs_count=6&theme=tokyonight"/>
+### Nota (Status)
 
-</div>
- <br>
- <p>*Linguagens mais usadas não conta repositórios privados*</p>
- <br>
- Sou um programador e criador de jogos com atualmente 3 anos de experiência em C#, 6 messes em Java e acabei de aprender C
- 
- 
+![Notas minhas do GitHub](https://github-readme-stats.vercel.app/api?username=0GuguH9&show_icons=true&theme=transparent&locale=pt-br&custom_title=Meus%20status)
 
-### Linguagens que eu tenho conhecimento <img height="25em" src="https://media4.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=ecf05e47zobv5wq5s4eap61x6tvyuek0m6qe9nn8l9mypklf&rid=giphy.gif&ct=s">
+### Linguagens mais usadas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt=C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
- 
- <br>
- 
-  ### Alguns lugares que você pode me encontrar:
- 
-<div> 
-  <a href="https://youtube.com/@0GuguH9" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gugu_h_?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/syZeam7bBE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+![Minhas linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=0GuguH9&theme=transparent&locale=pt-br&layout=donut)
+
+### O que eu uso
+
+* ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+* ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* ![Assembly x86](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
+* ![C#](https://res.cloudinary.com/practicaldev/image/fetch/s--jI4D6kUn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite)
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+* ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+* ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+* ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+### Aonde você pode me encontrar
+
+* [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@0GuguH9)
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gugu_h_?igshid=ZDdkNTZiNTM=)
+
+### Sistemas operacionais que eu uso
+
+* ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+* ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
