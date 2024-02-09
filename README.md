@@ -29,7 +29,3 @@
 
 * ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 * ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### WakaTime 
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=0GuguH9&theme=transparent)
