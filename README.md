@@ -3,6 +3,8 @@
 
 ### Nota (Status)
 
+![Status GitHub](http://github-readme-streak-stats.herokuapp.com?user=0GuguH9&theme=transparent&locale=pt-br)
+
 ![Notas minhas do GitHub](https://github-readme-stats.vercel.app/api?username=0GuguH9&show_icons=true&theme=transparent&locale=pt-br&custom_title=Meus%20status)
 
 ### Linguagens mais usadas
