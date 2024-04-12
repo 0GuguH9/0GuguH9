@@ -9,7 +9,7 @@
 
 ### Linguagens mais usadas
 
-![Minhas linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=0GuguH9&theme=transparent&locale=pt-br&layout=donut)
+![Minhas linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=0GuguH9&theme=transparent&locale=pt-br&layout=donut&hide=nesc)
 
 ### O que eu uso
 <!-- * ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
